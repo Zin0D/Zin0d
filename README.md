@@ -1,16 +1,37 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**Zin0D/Zin0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer-Science student from Germany @Tu-Darmstadt with a passion for offensive security, exploit and malware development.  
 
-Here are some ideas to get you started:
+```c
+#include <winsock2.h>
+#include <zin0d.h>
+#include <Windows.h> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#define SLOGAN "Skidding-through-the-moon\n"
+
+int main(int argc, char *argv[]) {
+    printf(SLOGAN);
+    char name[] = "Zin0d";
+    char whoami[] = "Student";
+    int age = 20;
+    char passion[] = "hacking";
+    }
+```
+
+My Expertise / Learning Path:
+
+### Programming 
+- Tools to attack Web-Applications, Scrapers, Sub-Domain / Directory Brutforcing 
+- Development of offensive-discord bots
+- Malware
+
+### Offensive security / Hacking
+- Participating in Capture-The-Flag (CTF) programs such as HackTheBox  
+- Performing mainly Web and Network hacking
+- Building Red Team offensive software for Windows and Linux 
+- Low-level exploit development  (Buffer Overflows...)
+
+### Reverse Engineering / ASM
+- Good understanding of implementing things in Assembly or C, such as Sockets, 
+- Reverse engineering x86_64 / x86 based binaries and systems using tools such as windbg, gdb, ghidra.
+
