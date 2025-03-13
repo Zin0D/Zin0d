@@ -2,24 +2,6 @@
 
 I'm a Computer-Science student from Germany @Tu-Darmstadt with a passion for offensive security, exploit and malware development.  
 
-```c
-#include <winsock2.h>
-#include <zin0d.h>
-#include <Windows.h> 
-
-#define SLOGAN "Skidding-through-the-moon\n"
-
-int main(int argc, char *argv[]) {
-    printf(SLOGAN);
-
-    char name[] = "Zin0d";
-    char whoami[] = "Student";
-    int age = 20;
-    char passion[] = "Hacking";
-
-    }
-```
-
 ---
 
 My Expertise / Learning Path:
