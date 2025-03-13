@@ -11,12 +11,14 @@ I'm a Computer-Science student from Germany @Tu-Darmstadt with a passion for off
 
 int main(int argc, char *argv[]) {
     printf(SLOGAN);
+
     char name[] = "Zin0d";
     char whoami[] = "Student";
     int age = 20;
     char passion[] = "hacking";
-    }
 
+    }
+```
 
 My Expertise / Learning Path:
 
@@ -35,4 +37,3 @@ My Expertise / Learning Path:
 - Good understanding of implementing things in Assembly or C, such as Sockets, 
 - Reverse engineering x86_64 / x86 based binaries and systems using tools such as windbg, gdb, ghidra.
 
-```
