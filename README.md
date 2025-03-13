@@ -16,16 +16,11 @@ int main(int argc, char *argv[]) {
 
 My Expertise / Learning Path:
 
-### Programming 
-- Tools to attack Web-Applications, Scrapers, Sub-Domain / Directory Brutforcing 
-- Development of offensive-discord bots
-- Malware
-
 ### Offensive security / Hacking
 - Participating in Capture-The-Flag (CTF) programs such as HackTheBox  
-- Performing mainly Web and Network hacking
-- Building Red Team offensive software for Windows and Linux 
-- Low-level exploit development  (Buffer Overflows...)
+- Performing mainly Web and Network hacking, loves to analyze source-code for bugs and vulnerabilites. 
+- Building Red Team offensive software for Windows and Linux, Web-App attack-tools, Malware and more..)
+- Low-level exploit development (Buffer Overflows...)
 
 ### Reverse Engineering / ASM
 - Reverse engineering x86_64 / x86 based binaries
