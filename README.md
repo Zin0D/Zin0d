@@ -1,6 +1,7 @@
-## Welcome
+## Welcome - :)
 ```c
-I'm a Computer-Science student from Germany @Tu-Darmstadt with a passion for offensive security, exploit and malware development.  
+I'm a Computer-Science student from Germany @Tu-Darmstadt\n
+My passion lies in offensive security, as well as exploit and malware development\n
 
 
 #define SLOGAN "Skidding-through-the-moon\n"
