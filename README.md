@@ -3,6 +3,8 @@
 I'm a Computer-Science student from Germany @Tu-Darmstadt\n
 My passion lies in offensive security, as well as exploit and malware development\n
 
+Self-taught.
+
 
 #define SLOGAN "Skidding-through-the-moon\n"
 
