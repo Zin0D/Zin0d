@@ -26,6 +26,6 @@ My Expertise / Learning Path:
 - Low-level exploit development (Buffer Overflows...)
 
 ### Reverse Engineering / ASM
-- Reverse engineering x86_64 / x64 based binaries
+- Reverse engineering x86_64 / x86 based binaries
 
 ---
